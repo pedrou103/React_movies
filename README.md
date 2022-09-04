@@ -7,3 +7,5 @@ Projeto feito em react, com o objetivo de aprender mais sobre o react-router-dom
   - React
   - Vite
   - API ➡️ TMDB
+
+link: https://quiet-platypus-32dddb.netlify.app/
